@@ -1,2 +1,2 @@
-# tutorial-node-with-passport
-Tutorial: Authenticating Node.js Applications With Passport (May 19, 2016)
+# Tutorial: Authenticating Node.js Applications With Passport
+Source: http://code.tutsplus.com/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
